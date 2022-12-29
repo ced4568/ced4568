@@ -1,6 +1,18 @@
+
 <h1>Hi, I'm Chase! <br/><a href="[https://github.com/joshmadakor1](https://github.com/ced4568)">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/toochase-dumphord/)">Digital Craftsman</a>, <a href="(https://www.upwork.com/freelancers/~01c6cfc5868cf7c45b)">Freelancer</a></h1>
-I'm a full-stack developer and Maker building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>I'm a full-stack developer and Maker building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
+<img align="right" alt="TypeScript" width="400px" style="padding-right:10px;" src="https://gifdb.com/images/thumbnail/monkey-laptop-coding-miys12p5izw3s11s.gif" />
+
+<ul>
+ <li>🔭 I’m currently working on Freemote bootcamp</li>
+ <li>🌱 I’m currently learning front end development</li> 
+ <li>👯 I’m looking to collaborate with other new programmers</li>
+ <li>🤔 I’m looking for help with javascript</li>
+ <li>💬 Ask me about raspiberry pi's</li>
+ <li>📫 How to reach me: Chasedumphord@gmail.com</li>
+ <li>⚡ Fun fact: I have ball pythons for pets along with dogs</li>
+</ul>
+  <h2>👨‍💻 Software Development Projects:</h2>
 
 
 
@@ -37,12 +49,12 @@ I'm a full-stack developer and Maker building my version of the digital world on
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Freemote bootcamp
+- 🌱 I’m currently learning front end development 
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with javascript
+- 💬 Ask me about raspiberry pi's
+- 📫 How to reach me: Chasedumphord@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i have ball pythons for pets along with dogs
 -->
