@@ -7,7 +7,7 @@
  <li>🔭 I’m currently working on Freemote bootcamp</li>
  <li>🌱 I’m currently learning front end development</li> 
  <li>👯 I’m looking to collaborate with other new programmers</li>
- <li>🤔 I’m looking for help with javascript</li>
+ <li>🤔 I’m looking for help with react</li>
  <li>💬 Ask me about raspsberry pi's</li>
  <li>📫 How to reach me: Chasedumphord@gmail.com</li>
  <li>⚡ Fun fact: I have ball pythons for pets along with dogs</li>
