@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Chase! <br/><a href="[https://github.com/joshmadakor1](https://github.com/ced4568)">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/toochase-dumphord/)">Digital Craftsman</a>, <a href="(https://www.upwork.com/freelancers/~01c6cfc5868cf7c45b)">Freelancer</a></h1>
-<h3>I'm a full-stack developer and Maker building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
+<h3>I'm a front-end developer and Maker building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
 <img align="right" alt="TypeScript" width="400px" style="padding-right:10px;" src="https://gifdb.com/images/thumbnail/monkey-laptop-coding-miys12p5izw3s11s.gif" />
 
 <ul>
