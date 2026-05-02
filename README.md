@@ -1,70 +1,65 @@
-<h1>Hi, I'm Chase! <br/>
-<a href="https://github.com/ced4568">Digital Systems Engineer</a>, 
-<a href="https://www.linkedin.com/in/toochase-dumphord/">Builder</a>, 
-<a href="https://www.upwork.com/freelancers/~01c6cfc5868cf7c45b">Freelancer</a>
-</h1>
+# Hi, I'm Chase 👋
 
-<h3>
-I build real-world systems that combine data, automation, and infrastructure. 
-From dashboards and full-stack apps to homelab environments, everything I create is designed to solve practical problems and scale.
-</h3>
+<img align="right" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="370" alt="Coding Gorilla"/>
 
-<img align="right" alt="Coding Gorilla" width="400px" style="padding-right:10px;" src="https://gifdb.com/images/thumbnail/monkey-laptop-coding-miys12p5izw3s11s.gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0D111700&width=435&lines=Digital+Systems+Engineer;Infrastructure+Builder;Homelab+Architect;Automation+Engineer)](https://git.io/typing-svg)
 
-<ul>
- <li>🚀 Currently building data dashboards & system monitoring tools</li>
- <li>🖥️ Running a full homelab (Proxmox, Kubernetes, Docker)</li> 
- <li>⚙️ Focused on automation, infrastructure, and real-world systems</li>
- <li>🧠 Ask me about Raspberry Pi clusters, K3s, or system design</li>
- <li>📫 Reach me: Chasedumphord@gmail.com</li>
- <li>⚡ Fun fact: I have ball pythons 🐍 along with dogs</li>
-</ul>
+> I build real-world systems that combine data, automation, and infrastructure.
+> From dashboards and full-stack apps to homelab clusters — everything ships to solve real problems.
 
-<h2>🧠 Featured Projects</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toochase-dumphord/)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c6cfc5868cf7c45b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Chasedumphord@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kingofparis148)
 
-<ul>
- <li><b>🧠 Ced’s Home Lab (Infrastructure + Monitoring)</b><br/>
- Real-world environment using Proxmox, Kubernetes, and monitoring tools to simulate production systems.</li>
+---
 
- <li><b>📊 Digital Dashboard System</b><br/>
- Industrial-style data visualization platform with real-time monitoring and analytics.</li>
+## // currently
 
- <li><b>🌐 Secure Web Application</b><br/>
- Full-stack application with authentication, API integration, and scalable structure.</li>
-</ul>
+- 🚀 Building data dashboards & system monitoring tools
+- 🖥️ Running a full homelab — Proxmox + Kubernetes + Docker
+- ⚙️ Exploring automation, IaC, and observable systems
+- 🧠 Ask me about Raspberry Pi clusters, K3s, or system design
+- 📫 Reach me: Chasedumphord@gmail.com
 
-<h2>🧰 Languages and Tools</h2>
+---
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-<img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+## // stack
 
-<br /><br />
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Infrastructure & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-<br /><br />
+**Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-[twitter]: https://twitter.com/kingofparis148
-[instagram]: https://www.instagram.com/thiscantbetrue148/
-[linkedin]: https://www.linkedin.com/in/toochase-dumphord/
+---
 
-<!--
-🔥 Built to showcase real-world systems, not just tutorials.
--->
+## // featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🖥️ **Ced's Home Lab** | Proxmox + K3s + full monitoring stack. Real infra, real problems. | Proxmox, K3s, Grafana, Prometheus |
+| 📊 **Digital Dashboard System** | Industrial-style data viz with real-time monitoring and alerts | React, Python, TypeScript |
+| 🔐 **Secure Web Application** | Full-stack app — auth, APIs, scalable structure. Security-first. | Node.js, JWT, PostgreSQL |
+
+---
+
+*Built with intention. Deployed with purpose.*
