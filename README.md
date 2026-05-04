@@ -1,6 +1,6 @@
 # Hi, I'm Chase 👋
 
-<img align="right" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="370" alt="Coding Gorilla"/>
+<img align="right" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="365" alt="Coding Gorilla"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0D111700&width=435&lines=Digital+Systems+Engineer;Infrastructure+Builder;Homelab+Architect;Automation+Engineer)](https://git.io/typing-svg)
 
