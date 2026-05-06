@@ -7,7 +7,7 @@
 > I build real-world systems that combine data, automation, and infrastructure.
 > From dashboards and full-stack apps to homelab clusters — everything ships to solve real problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toochase-dumphord/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chase-dumphord/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c6cfc5868cf7c45b)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Chasedumphord@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kingofparis148)
