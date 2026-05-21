@@ -17,11 +17,11 @@
 
 ## // currently
 
-- 🚀 Running a live NOC — 6-node Proxmox cluster + 12-node K3s on Raspberry Pi
-- 📊 Building industrial data pipelines and dashboards at GE Aerospace
-- ⚙️ Studying Kubernetes production patterns via KubeCraft
-- 📡 Operating dual-node APRS iGate system (KJ5JCO) — RF to internet
-- 🧠 Ask me about K3s, Proxmox, Grafana, or industrial OT/IT integration
+-  Running a live NOC 6-node Proxmox cluster + 12-node K3s on Raspberry Pi
+-  Building industrial data pipelines and dashboards at GE Aerospace
+-  Studying Kubernetes production patterns via KubeCraft
+-  Operating dual-node APRS iGate system (KJ5JCO) — RF to internet
+-  Ask me about K3s, Proxmox, Grafana, or industrial OT/IT integration
 
 -----
 
