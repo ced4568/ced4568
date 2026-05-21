@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0D111700&width=435&lines=Digital+Systems+Engineer;Infrastructure+Builder;Homelab+Architect;Automation+Engineer)](https://git.io/typing-svg)
 
 > I build real-world systems that combine data, automation, and infrastructure.
-> From industrial data pipelines at GE Aerospace to a live 18-node homelab NOC — everything ships to solve real problems.
+> From industrial data pipelines at GE Aerospace to a live 18-node homelab NOC everything ships to solve real problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chase-dumphord/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-chasedumphord.com-1D9E75?style=flat)](https://chasedumphord.com)
@@ -20,7 +20,7 @@
 -  Running a live NOC 6-node Proxmox cluster + 12-node K3s on Raspberry Pi
 -  Building industrial data pipelines and dashboards at GE Aerospace
 -  Studying Kubernetes production patterns via KubeCraft
--  Operating dual-node APRS iGate system (KJ5JCO) — RF to internet
+-  Operating dual-node APRS iGate system (KJ5JCO) RF to internet
 -  Ask me about K3s, Proxmox, Grafana, or industrial OT/IT integration
 
 -----
