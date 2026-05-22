@@ -1,11 +1,11 @@
-# Hi, I’m Chase 👋
+# Hi, I'm Chase
 
 <img align="right" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="365" alt="Coding Gorilla"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0D111700&width=435&lines=Digital+Systems+Engineer;Infrastructure+Builder;Homelab+Architect;Automation+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&background=0D111700&width=435&lines=DevOps+Engineer;Platform+Engineer;Cloud+Infrastructure+Engineer;Homelab+Architect)](https://git.io/typing-svg)
 
-> I build real-world systems that combine data, automation, and infrastructure.
-> From industrial data pipelines at GE Aerospace to a live 18-node homelab NOC everything ships to solve real problems.
+> I build real world systems that combine data, automation, and infrastructure.
+> From industrial data pipelines at GE Aerospace to an 18-node production homelab with 28 live services everything ships to solve real problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chase-dumphord/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-chasedumphord.com-1D9E75?style=flat)](https://chasedumphord.com)
@@ -17,11 +17,11 @@
 
 ## // currently
 
--  Running a live NOC 6-node Proxmox cluster + 12-node K3s on Raspberry Pi
--  Building industrial data pipelines and dashboards at GE Aerospace
--  Studying Kubernetes production patterns via KubeCraft
--  Operating dual-node APRS iGate system (KJ5JCO) RF to internet
--  Ask me about K3s, Proxmox, Grafana, or industrial OT/IT integration
+* Running a live 18 node production environment 6-node Proxmox VE cluster and 12 node K3s on Raspberry Pi with 28 services online
+* Building industrial data pipelines and dashboards at GE Aerospace
+* Studying Kubernetes production patterns via KubeCraft
+* Operating dual-node APRS iGate system (KJ5JCO) RF to internet
+* Ask me about K3s, Proxmox, Grafana, or industrial OT/IT integration
 
 -----
 
@@ -57,12 +57,14 @@
 
 ## // featured projects
 
-|Project                                                                               |Description                                                                                          |Stack                            |
-|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------|
-|🖥️ **[Ced’s HomeLab](https://github.com/ced4568/ceds-homelab)**                        |6-node Proxmox HA cluster + 12-node K3s. Real infra, real problems. Live NOC at noc.chasedumphord.com|Proxmox, K3s, TrueNAS, Cloudflare|
-|📊 **[Ced’s Observability Stack](https://github.com/ced4568/ceds-observability-stack)**|Production monitoring platform — Prometheus, Grafana, Alertmanager across the full homelab stack     |Prometheus, Grafana, Alertmanager|
-|📡 **[Ced’s APRS iGate](https://github.com/ced4568/ceds-aprs-igate)**                  |Dual-node RF-to-internet gateway. Bridges amateur radio into IP infrastructure. KJ5JCO               |Raspberry Pi, Direwolf, Linux    |
-|☸️ **[Ced’s K3s HomeLab](https://github.com/ced4568/ced-k3s-homelab)**                 |12-node Raspberry Pi K3s cluster — HA control plane, role-based workers, 117+ days uptime            |K3s, MetalLB, Prometheus         |
+|Project|Description|Stack|
+|-------|-----------|-----|
+|🖥️ **[Ced's HomeLab](https://github.com/ced4568/ceds-homelab)**|18-node production environment 6-node Proxmox VE cluster and 12-node K3s. Real infra, real problems. Live NOC at noc.chasedumphord.com|Proxmox, K3s, TrueNAS, Cloudflare|
+|🤖 **[CedOps AI Infrastructure NOC](https://github.com/ced4568/cedops-ai-infrastructure-noc)**|AI Operations Platform 8 autonomous agents on Hetzner VPS, monitored by Prometheus via Tailscale, visualized in a live Grafana NOC dashboard|n8n, OpenRouter, Prometheus, Grafana, Docker|
+|📊 **[Ced's Observability Stack](https://github.com/ced4568/ceds-observability-stack)**|Production monitoring platform Prometheus, Grafana, Alertmanager across the full homelab stack|Prometheus, Grafana, Alertmanager|
+|📡 **[Ced's APRS iGate](https://github.com/ced4568/ceds-aprs-igate)**|Dual-node RF to internet gateway. Bridges amateur radio into IP infrastructure. KJ5JCO|Raspberry Pi, Direwolf, Linux|
+|☸️ **[Ced's K3s HomeLab](https://github.com/ced4568/ced-k3s-homelab)**|12-node Raspberry Pi K3s cluster HA control plane, role-based workers, 117+ days uptime|K3s, MetalLB, Prometheus|
+|🌐 **[Ced's Portfolio](https://github.com/ced4568/ced-portfolio)**|Personal portfolio and live NOC dashboard DevOps and Cloud Infrastructure Engineer. 18 nodes, 28 services, always running|HTML, JavaScript, Cloudflare|
 
 -----
 
